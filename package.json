@@ -1,0 +1,11 @@
+{
+    "name": "com.ohms.cardsystem",
+    "displayName": "Deck Data Structure",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "A data structures that resembles a deck of cards. Useful for obtaining random values with more control.",
+    "keywords": ["ohms", "utilities"],
+    "category": "utilities",
+    "dependencies": {
+    }
+}
